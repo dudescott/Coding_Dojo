@@ -1,0 +1,191 @@
+Product_ID,Product_Name,Price_Per_LB
+P001,Absorbent cotton,2.81
+P002,Alfalfa pellets,4.68
+P003,Allspice,1.14
+P004,Almonds,5.89
+P005,Aniseed,1.79
+P006,Apples,5.11
+P007,"Apples, dried",4.63
+P008,Apricot kernels,4.54
+P009,"Apricots, dried",3.87
+P010,Artichokes,4.93
+P011,Asparagus,3.74
+P012,Automobiles,2.46
+P013,Avocados,2.62
+P014,Bananas,3.35
+P015,Barley,4.58
+P016,Bay leaves,4.28
+P017,"Beans, dried",4.96
+P018,Beer,3.83
+P019,Blueberries,3.34
+P020,Brazil nuts,2.58
+P021,Brewer’s grain pellets,2.66
+P022,Butter,2.53
+P023,Camelina oil,2.82
+P024,Candy sugar,5.41
+P025,Capsicum,4.61
+P026,Caraway,4.56
+P027,Cardamom,3.34
+P028,Cardboard,4.86
+P029,Carpets,5.76
+P030,Carrots,5.33
+P031,Cashew nuts,1.39
+P032,Castor oil,2.08
+P033,Cellulose/chemical pulp,3.74
+P034,Chair cane,4.64
+P035,Cheese,4.29
+P036,Cherries,1.7
+P037,Chestnuts,1.07
+P038,Chilies,1.55
+P039,Chilled meat,1.21
+P040,"Chocolate, solid",5.1
+P041,Cinnamon,1.96
+P042,Citrus pellets,5.96
+P043,Clementines,2.49
+P044,Clothing/ready-made garments,1.57
+P045,Cloves,4.77
+P046,"Cocoa beans, raw cocoa",2.32
+P047,Coconut fiber,5.84
+P048,Coconut oil,1.72
+P049,Coconuts,1.8
+P050,"Coffee, green coffee beans",2.19
+P051,Combed top,1.87
+P052,Copra,2.97
+P053,Copra expeller,5.98
+P054,Copra extraction meal,1.61
+P055,Coriander,1.79
+P056,Corn,4.38
+P057,Corn gluten pellets,5.51
+P058,Corn pellets,3.96
+P059,Corrugated board,2.51
+P060,Cotton,4.92
+P061,Cottonseed,2.96
+P062,Cottonseed expeller,1.17
+P063,Cottonseed extraction meal,4.15
+P064,Cottonseed oil,4.13
+P065,Cottonseed pellets,4.04
+P066,Cucumbers,2.44
+P067,Currants,2.63
+P068,Cut lumber,2.8
+P069,"Dates, dried",5.35
+P070,Esparto,3.52
+P071,Fabrics/cloth/textiles,3.05
+P072,Fennel seed,2.72
+P073,"Figs, dried",1.07
+P074,Filter paper,1.86
+P075,Flax,2.44
+P076,Flax tow,3.13
+P077,Frozen fish,1.1
+P078,Frozen meat,4.54
+P079,Garlic,2.24
+P080,"Ginger, fresh",2.84
+P081,"Ginger, dried",1.2
+P082,Grapefruit,5.57
+P083,Grapes,2.85
+P084,Hazelnuts,1.39
+P085,Hemp,4.66
+P086,Hemp oil,5.2
+P087,Herring oil,1.91
+P088,Home entertainment equipment/brown goods,3.32
+P089,Household appliances/white goods,1.84
+P090,Jute,3.63
+P091,Kapok,2.57
+P092,Kapok seed oil,1.33
+P093,Kiwifruit,2.56
+P094,Lemons,1.37
+P095,"Lentils, dried",1.09
+P096,Limes,5.94
+P097,Linseed expeller,2.58
+P098,Linseed/flaxseed,3.58
+P099,Linseed oil,4.66
+P100,Lump sugar,3.82
+P101,Mace,4.89
+P102,"Machinery, machine parts",4.22
+P103,Mandarins,1.68
+P104,Mangos,5.29
+P105,Manila hemp,2.45
+P106,Millboard,3.5
+P107,Mustard,3.84
+P108,Mustard oil,4.62
+P109,Natural rubber,5.42
+P110,Newsprint,4.43
+P111,Nutmegs,1.95
+P112,Oats,4.93
+P113,Olive oil,5.48
+P114,Onions,4.46
+P115,Oranges,4.56
+P116,Packing paper,2.8
+P117,Palm fiber,1.68
+P118,Palm kernel oil,2.89
+P119,Palm oil,5.93
+P120,Paper bales,1.5
+P121,Peaches/nectarines,1.67
+P122,Peanut expeller,5.43
+P123,Peanut extraction meal,4.43
+P124,Peanut oil,1.77
+P125,Peanut pellets,1.15
+P126,Peanuts,4.66
+P127,Pears,1.96
+P128,"Peas, dried",4.14
+P129,Pepper,2.69
+P130,Photographic paper,1.48
+P131,Piassava,1.36
+P132,Pineapple,3.73
+P133,Pipes,5.99
+P134,Pistachio nuts,2.39
+P135,Poppy seed,4.11
+P136,Potatoes,1.76
+P137,"Preserved foods, general",3.67
+P138,Profiles,2.16
+P139,Prunes,5.99
+P140,Raffia,2.92
+P141,Raisins,1.54
+P142,Ramie,5.99
+P143,Rapeseed oil,2.43
+P144,Raw sugar,3.26
+P145,Rice,4.45
+P146,Rice bran pellets,4.04
+P147,Roofing felt,2.61
+P148,Roundwood,2.18
+P149,Rum,5.19
+P150,Rye,1.33
+P151,Saffron,2.88
+P152,Sage leaves,3.73
+P153,Salt,2.59
+P154,Seal oil,2.25
+P155,Sesame oil,5.5
+P156,Sesame seed expeller,3.17
+P157,Silk,2.12
+P158,Sisal hemp,2.95
+P159,Soybean extraction meal,4.08
+P160,Soybean meal pellets,3.81
+P161,Soybeans,5.37
+P162,Soy oil,2.1
+P163,Star anise,1.08
+P164,Steel sheet in coils,2.52
+P165,Steel sheet in sheets,3.24
+P166,Sultanas,5.39
+P167,Sunflower expeller,2.88
+P168,Sunflower oil,1.52
+P169,Sunflower pellets,4.58
+P170,Sunflower seeds,5.71
+P171,Sweet peppers,3.33
+P172,Switch cabinets/switchgear,2.64
+P173,Synthetic rubber,1.06
+P174,Tea,1.35
+P175,Teaseed oil,1.13
+P176,"Tobacco, leaf tobacco",5.56
+P177,Tomatoes,2.73
+P178,Trucks,1.62
+P179,Vanilla,2.34
+P180,Veneer,4.38
+P181,Walnuts,2.73
+P182,Waste paper,3.09
+P183,Waxed paper,4.04
+P184,Wheat,4.17
+P185,Wheat bran pellets,5.48
+P186,Wheat mill run pellets,1.92
+P187,White sugar,3.86
+P188,Wire rod,3.75
+P189,Wool,4.5
+P190,Yarns,5.2
