@@ -10,10 +10,6 @@ def show_sites(c):
 
     return sites
 
-
-
-
-
 def retrieve(c):
     site = input('Enter the site to retrieve or nothing to show all sites: ')
     if site == '':
@@ -68,10 +64,10 @@ if __name__ == '__main__':
             add(c)
         elif action == 'r':
             retrieve(c)
-        elif action == 'e':
-            edit(c)
-        elif action == 'd':
-            delete(c)
+        # elif action == 'e':
+        #     edit(c)
+        # elif action == 'd':
+        #     delete(c)
         elif action == 'q':
             break
         else:
